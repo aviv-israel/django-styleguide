@@ -16,7 +16,8 @@ This style guide based on:
 	- interfaces.py - Integrations with other domains or external services.
 	- models.py - Object models and storage, simple information logic.
 	- services.py - coordination and transactional logic.
-```* `Views.py` in  [Django’s pattern](https://docs.djangoproject.com/en/dev/#the-view-layer)  is *explicitly not allowed* in this styleguide.
+```
+* `Views.py` in  [Django’s pattern](https://docs.djangoproject.com/en/dev/#the-view-layer)  is *explicitly not allowed* in this styleguide.
 We only focus on API-based applications. Most logic that used to live in Django’s `views.py` would now be separated into APIs and Services.
 
 ## Models

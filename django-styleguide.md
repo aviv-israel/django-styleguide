@@ -4,11 +4,11 @@ This style guide based on:
 2. [Styleguide for Django API Projects of Paul Hallett](https://github.com/phalt/django-api-domains/)
 
 ## Introduction
-![](Django%20Styleguide/dads_main.png)
+![](https://github.com/aviv-israel/django-styleguide/blob/master/assets/dads_main.png)
 
 
 ## App Layout
-![](Django%20Styleguide/app_layout.png)
+![](https://github.com/aviv-israel/django-styleguide/blob/master/assets/app_layout.png)
 
 * A domain **must** use the following file structure:
 ```
